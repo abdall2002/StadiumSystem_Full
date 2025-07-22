@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StatiumSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe39bace822fe806a5e0b977135e2639e555be29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c50ec427a33b579b7f480065d2df493202c0b10b")]
 [assembly: System.Reflection.AssemblyProductAttribute("StatiumSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StatiumSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
