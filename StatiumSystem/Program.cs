@@ -15,9 +15,10 @@ builder.Services.AddDbContext<StadiumDbContext>(options =>
     options.UseSqlServer(connectionString));
 
 // Add Identity with default UI
-builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
+builder.Services.AddIdentity<User, IdentityRole>(options =>
     options.SignIn.RequireConfirmedAccount = false)
-    .AddEntityFrameworkStores<StadiumDbContext>().AddDefaultTokenProviders();
+    .AddEntityFrameworkStores<StadiumDbContext>()
+    .AddDefaultTokenProviders();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -26,6 +27,20 @@ builder.Services.AddRazorPages(); // Required for Identity UI
 builder.Services.AddTransient<IEmailSender, EmailSender>();
 
 builder.Services.AddAutoMapper(typeof(Program));
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowVueApp",
+        builder =>
+        {
+            builder
+                .WithOrigins("http://localhost:5173") // ???? ????? Vue
+                .AllowAnyHeader()
+                .AllowAnyMethod()
+                .AllowCredentials();
+        });
+});
+
 
 var app = builder.Build();
 
@@ -54,5 +69,7 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.MapRazorPages(); // Required for Identity UI pages
+
+app.UseCors("AllowVueApp");
 
 app.Run();

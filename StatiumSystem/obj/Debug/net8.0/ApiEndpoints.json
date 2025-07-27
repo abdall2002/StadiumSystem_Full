@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "StadiumsApiController",
+    "Method": "GetStadiums",
+    "RelativePath": "api/StadiumsApi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

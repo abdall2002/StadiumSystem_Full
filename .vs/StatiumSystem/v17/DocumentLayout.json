@@ -3,16 +3,144 @@
   "WorkspaceRootPath": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\data\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\data\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\shared\\components\\reservationnotification\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\shared\\components\\reservationnotification\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\controllers\\api\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\controllers\\api\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StadiumSystem.Model\\Migrations\\20250724193713_updateUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StadiumSystem.Model\\Migrations\\20250724193713_updateUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA3D5CA-AE65-4E16-934D-430397B8CE90}|StadiumSystem.Model\\StadiumSystem.Model.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\stadiumsystem.model\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA3D5CA-AE65-4E16-934D-430397B8CE90}|StadiumSystem.Model\\StadiumSystem.Model.csproj|solutionrelative:stadiumsystem.model\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA3D5CA-AE65-4E16-934D-430397B8CE90}|StadiumSystem.Model\\StadiumSystem.Model.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\stadiumsystem.model\\stadiumdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FA3D5CA-AE65-4E16-934D-430397B8CE90}|StadiumSystem.Model\\StadiumSystem.Model.csproj|solutionrelative:stadiumsystem.model\\stadiumdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\controllers\\api\\stadiumsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\controllers\\api\\stadiumsapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\controllers\\api\\accountapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\controllers\\api\\accountapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\stadium\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\stadium\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\stadium\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\stadium\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\controllers\\stadiumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\controllers\\stadiumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\viewcomponents\\reservationnotificationviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\viewcomponents\\reservationnotificationviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\reservation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\reservation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\stadium\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\stadium\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\statiumsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -23,36 +151,8 @@
       "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\stadium\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\stadium\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\models\\reservationfullviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\models\\reservationfullviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\controllers\\stadiumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\controllers\\stadiumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\stadium\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\stadium\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\models\\reservationviewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,14 +171,6 @@
       "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\reservation\\manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\reservation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\reservation\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\models\\stadiumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\models\\stadiumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -95,16 +187,8 @@
       "RelativeMoniker": "D:0:0:{5FA3D5CA-AE65-4E16-934D-430397B8CE90}|StadiumSystem.Model\\StadiumSystem.Model.csproj|solutionrelative:stadiumsystem.model\\statium\\stadium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\stadium\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\stadium\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\reservation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\reservation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\views\\stadium\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -119,44 +203,8 @@
       "RelativeMoniker": "D:0:0:{5FA3D5CA-AE65-4E16-934D-430397B8CE90}|StadiumSystem.Model\\StadiumSystem.Model.csproj|solutionrelative:stadiumsystem.model\\statium\\stadiumconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FA3D5CA-AE65-4E16-934D-430397B8CE90}|StadiumSystem.Model\\StadiumSystem.Model.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\stadiumsystem.model\\stadiumdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FA3D5CA-AE65-4E16-934D-430397B8CE90}|StadiumSystem.Model\\StadiumSystem.Model.csproj|solutionrelative:stadiumsystem.model\\stadiumdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5FA3D5CA-AE65-4E16-934D-430397B8CE90}|StadiumSystem.Model\\StadiumSystem.Model.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\stadiumsystem.model\\stadiumsystem.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5FA3D5CA-AE65-4E16-934D-430397B8CE90}|StadiumSystem.Model\\StadiumSystem.Model.csproj|solutionrelative:stadiumsystem.model\\stadiumsystem.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\data\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\data\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FA3D5CA-AE65-4E16-934D-430397B8CE90}|StadiumSystem.Model\\StadiumSystem.Model.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\stadiumsystem.model\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FA3D5CA-AE65-4E16-934D-430397B8CE90}|StadiumSystem.Model\\StadiumSystem.Model.csproj|solutionrelative:stadiumsystem.model\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -175,19 +223,14 @@
       "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\statiumsystem\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D56298D4-910B-4A0C-A09C-828F47F906FA}|StatiumSystem\\StatiumSystem.csproj|solutionrelative:statiumsystem\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StatiumSystem\\StadiumSystem.Model\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FA3D5CA-AE65-4E16-934D-430397B8CE90}|StadiumSystem.Model\\StadiumSystem.Model.csproj|d:\\summer internship\\\u0627\u0643\u0648\u0627\u062F\\stadiumsystem_admin--main\\stadiumsystem.model\\migrations\\20250721142812_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FA3D5CA-AE65-4E16-934D-430397B8CE90}|StadiumSystem.Model\\StadiumSystem.Model.csproj|solutionrelative:stadiumsystem.model\\migrations\\20250721142812_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\training.3\\source\\repos\\StadiumSystem_Admin--main\\StatiumSystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -197,7 +240,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 43,
+          "SelectedChildIndex": 39,
           "Children": [
             {
               "$type": "Bookmark",
@@ -217,33 +260,174 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "StatiumSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "StatiumSystem\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-24T19:43:26.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StatiumSystem\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StatiumSystem\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-24T19:42:49.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StatiumSystem\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StatiumSystem\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-24T19:42:47.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250724193713_updateUser.cs",
+              "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StadiumSystem.Model\\Migrations\\20250724193713_updateUser.cs",
+              "RelativeDocumentMoniker": "StadiumSystem.Model\\Migrations\\20250724193713_updateUser.cs",
+              "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StadiumSystem.Model\\Migrations\\20250724193713_updateUser.cs",
+              "RelativeToolTip": "StadiumSystem.Model\\Migrations\\20250724193713_updateUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T19:37:14.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Models\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "StatiumSystem\\Models\\RegisterDto.cs",
+              "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Models\\RegisterDto.cs",
+              "RelativeToolTip": "StatiumSystem\\Models\\RegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:24:27.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "StatiumSystem\\Models\\LoginDto.cs",
+              "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Models\\LoginDto.cs",
+              "RelativeToolTip": "StatiumSystem\\Models\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:24:20.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Controllers\\Api\\AuthController.cs",
+              "RelativeDocumentMoniker": "StatiumSystem\\Controllers\\Api\\AuthController.cs",
+              "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Controllers\\Api\\AuthController.cs",
+              "RelativeToolTip": "StatiumSystem\\Controllers\\Api\\AuthController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:21:36.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountApiController.cs",
+              "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Controllers\\Api\\AccountApiController.cs",
+              "RelativeDocumentMoniker": "StatiumSystem\\Controllers\\Api\\AccountApiController.cs",
+              "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Controllers\\Api\\AccountApiController.cs",
+              "RelativeToolTip": "StatiumSystem\\Controllers\\Api\\AccountApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T18:18:58.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "StatiumSystem\\appsettings.json",
+              "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\appsettings.json",
+              "RelativeToolTip": "StatiumSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-24T15:37:17.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StadiumsApiController.cs",
+              "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Controllers\\Api\\StadiumsApiController.cs",
+              "RelativeDocumentMoniker": "StatiumSystem\\Controllers\\Api\\StadiumsApiController.cs",
+              "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Controllers\\Api\\StadiumsApiController.cs",
+              "RelativeToolTip": "StatiumSystem\\Controllers\\Api\\StadiumsApiController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T08:37:18.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "StatiumSystem\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "StatiumSystem\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-23T08:28:05.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Default.cshtml",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Shared\\Components\\ReservationNotification\\Default.cshtml",
               "RelativeDocumentMoniker": "StatiumSystem\\Views\\Shared\\Components\\ReservationNotification\\Default.cshtml",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Shared\\Components\\ReservationNotification\\Default.cshtml",
               "RelativeToolTip": "StatiumSystem\\Views\\Shared\\Components\\ReservationNotification\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-22T19:56:44.715Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 28,
               "Title": "ReservationNotificationViewComponent.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\ViewComponents\\ReservationNotificationViewComponent.cs",
               "RelativeDocumentMoniker": "StatiumSystem\\ViewComponents\\ReservationNotificationViewComponent.cs",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\ViewComponents\\ReservationNotificationViewComponent.cs",
               "RelativeToolTip": "StatiumSystem\\ViewComponents\\ReservationNotificationViewComponent.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAkAAABAAAAA",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAkAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T19:55:06.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T19:55:06.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 36,
               "Title": "site.css",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "StatiumSystem\\wwwroot\\css\\site.css",
@@ -255,19 +439,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "StatiumSystem\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "StatiumSystem\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACcAAAASAAAA",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-21T19:20:44.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 37,
               "Title": "ReservationFullViewDTO.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Models\\ReservationFullViewDTO.cs",
               "RelativeDocumentMoniker": "StatiumSystem\\Models\\ReservationFullViewDTO.cs",
@@ -279,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 41,
               "Title": "Manage.cshtml",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Reservation\\Manage.cshtml",
               "RelativeDocumentMoniker": "StatiumSystem\\Views\\Reservation\\Manage.cshtml",
@@ -291,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 39,
               "Title": "MyReservations.cshtml",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Reservation\\MyReservations.cshtml",
               "RelativeDocumentMoniker": "StatiumSystem\\Views\\Reservation\\MyReservations.cshtml",
@@ -303,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 38,
               "Title": "ReservationViewDTO.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Models\\ReservationViewDTO.cs",
               "RelativeDocumentMoniker": "StatiumSystem\\Models\\ReservationViewDTO.cs",
@@ -315,7 +499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 43,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "StatiumSystem\\Models\\LoginModel.cs",
@@ -327,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 44,
               "Title": "Reservation.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StadiumSystem.Model\\Reservation\\Reservation.cs",
               "RelativeDocumentMoniker": "StadiumSystem.Model\\Reservation\\Reservation.cs",
@@ -339,31 +523,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 25,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Stadium\\Details.cshtml",
               "RelativeDocumentMoniker": "StatiumSystem\\Views\\Stadium\\Details.cshtml",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Stadium\\Details.cshtml",
               "RelativeToolTip": "StatiumSystem\\Views\\Stadium\\Details.cshtml",
-              "ViewState": "AQIAABwAAAAAAAAAAAAswBgAAAAqAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBgAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-21T16:06:36.764Z"
+              "WhenOpened": "2025-07-21T16:06:36.764Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 33,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Reservation\\Create.cshtml",
               "RelativeDocumentMoniker": "StatiumSystem\\Views\\Reservation\\Create.cshtml",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Reservation\\Create.cshtml",
               "RelativeToolTip": "StatiumSystem\\Views\\Reservation\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-21T15:54:02.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 46,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Reservation\\Index.cshtml",
               "RelativeDocumentMoniker": "StatiumSystem\\Views\\Reservation\\Index.cshtml",
@@ -375,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 47,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Stadium\\Delete.cshtml",
               "RelativeDocumentMoniker": "StatiumSystem\\Views\\Stadium\\Delete.cshtml",
@@ -387,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 48,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Stadium\\Edit.cshtml",
               "RelativeDocumentMoniker": "StatiumSystem\\Views\\Stadium\\Edit.cshtml",
@@ -399,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 49,
               "Title": "StadiumConfiguration.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StadiumSystem.Model\\Statium\\StadiumConfiguration.cs",
               "RelativeDocumentMoniker": "StadiumSystem.Model\\Statium\\StadiumConfiguration.cs",
@@ -411,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Stadium\\Create.cshtml",
               "RelativeDocumentMoniker": "StatiumSystem\\Views\\Stadium\\Create.cshtml",
@@ -419,59 +604,60 @@
               "RelativeToolTip": "StatiumSystem\\Views\\Stadium\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-21T15:18:18.002Z"
+              "WhenOpened": "2025-07-21T15:18:18.002Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 34,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Stadium\\Index.cshtml",
               "RelativeDocumentMoniker": "StatiumSystem\\Views\\Stadium\\Index.cshtml",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Stadium\\Index.cshtml",
               "RelativeToolTip": "StatiumSystem\\Views\\Stadium\\Index.cshtml",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAswAgAAAAAAAAA",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-21T15:18:06.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 31,
               "Title": "ReservationController.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Controllers\\ReservationController.cs",
               "RelativeDocumentMoniker": "StatiumSystem\\Controllers\\ReservationController.cs",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Controllers\\ReservationController.cs",
               "RelativeToolTip": "StatiumSystem\\Controllers\\ReservationController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABkAAAA1AAAA",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAmwKAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T15:15:27.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 26,
               "Title": "StadiumController.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Controllers\\StadiumController.cs",
               "RelativeDocumentMoniker": "StatiumSystem\\Controllers\\StadiumController.cs",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Controllers\\StadiumController.cs",
               "RelativeToolTip": "StatiumSystem\\Controllers\\StadiumController.cs",
-              "ViewState": "AQIAAF4AAAAAAAAAAAAwwHEAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T15:14:30.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 30,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Mapper\\MappingProfile.cs",
               "RelativeDocumentMoniker": "StatiumSystem\\Mapper\\MappingProfile.cs",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Mapper\\MappingProfile.cs",
               "RelativeToolTip": "StatiumSystem\\Mapper\\MappingProfile.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAPAAAA",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-21T15:13:14.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 42,
               "Title": "StadiumDTO.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Models\\StadiumDTO.cs",
               "RelativeDocumentMoniker": "StatiumSystem\\Models\\StadiumDTO.cs",
@@ -483,7 +669,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 40,
               "Title": "ReservationDTO.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Models\\ReservationDTO.cs",
               "RelativeDocumentMoniker": "StatiumSystem\\Models\\ReservationDTO.cs",
@@ -495,7 +681,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 45,
               "Title": "Stadium.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StadiumSystem.Model\\Statium\\Stadium.cs",
               "RelativeDocumentMoniker": "StadiumSystem.Model\\Statium\\Stadium.cs",
@@ -507,31 +693,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 0,
               "Title": "EmailSender.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Data\\EmailSender.cs",
               "RelativeDocumentMoniker": "StatiumSystem\\Data\\EmailSender.cs",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Data\\EmailSender.cs",
               "RelativeToolTip": "StatiumSystem\\Data\\EmailSender.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T14:45:23.477Z"
+              "WhenOpened": "2025-07-21T14:45:23.477Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 1,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Data\\DbInitializer.cs",
               "RelativeDocumentMoniker": "StatiumSystem\\Data\\DbInitializer.cs",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Data\\DbInitializer.cs",
               "RelativeToolTip": "StatiumSystem\\Data\\DbInitializer.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAQwBYAAAAhAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswBQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T14:41:47.869Z"
+              "WhenOpened": "2025-07-21T14:41:47.869Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 56,
               "Title": "20250721142812_InitialMigration.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StadiumSystem.Model\\Migrations\\20250721142812_InitialMigration.cs",
               "RelativeDocumentMoniker": "StadiumSystem.Model\\Migrations\\20250721142812_InitialMigration.cs",
@@ -543,7 +731,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 8,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "StatiumSystem\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
@@ -551,23 +739,25 @@
               "RelativeToolTip": "StatiumSystem\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-20T09:16:50.494Z"
+              "WhenOpened": "2025-07-20T09:16:50.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 6,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "StatiumSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeToolTip": "StatiumSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-20T09:16:41.644Z"
+              "WhenOpened": "2025-07-20T09:16:41.644Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 7,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "RelativeDocumentMoniker": "StatiumSystem\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
@@ -575,11 +765,12 @@
               "RelativeToolTip": "StatiumSystem\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-20T09:16:35.999Z"
+              "WhenOpened": "2025-07-20T09:16:35.999Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 51,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "StatiumSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -591,7 +782,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 52,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "StatiumSystem\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
@@ -603,7 +794,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 53,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "StatiumSystem\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
@@ -615,7 +806,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 54,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "StatiumSystem\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
@@ -627,104 +818,110 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 4,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "StatiumSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeToolTip": "StatiumSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAowKsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T09:15:54.771Z"
+              "WhenOpened": "2025-07-20T09:15:54.771Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 3,
               "Title": "Logout.cshtml.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
               "RelativeDocumentMoniker": "StatiumSystem\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
               "RelativeToolTip": "StatiumSystem\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAABQAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T09:15:44.336Z"
+              "WhenOpened": "2025-07-20T09:15:44.336Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 5,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "StatiumSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
               "RelativeToolTip": "StatiumSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T09:15:25.767Z"
+              "WhenOpened": "2025-07-20T09:15:25.767Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 10,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "StatiumSystem\\Views\\Shared\\_LoginPartial.cshtml",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "StatiumSystem\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAABQAAAA+AAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-20T09:13:31.694Z"
+              "WhenOpened": "2025-07-20T09:13:31.694Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 32,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "StatiumSystem\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Controllers\\HomeController.cs",
               "RelativeToolTip": "StatiumSystem\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAADgvwoAAAApAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-20T09:01:30.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "StatiumSystem\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "StatiumSystem\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADoAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-20T08:57:09.696Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 19,
               "Title": "StadiumDbContext.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StadiumSystem.Model\\StadiumDbContext.cs",
               "RelativeDocumentMoniker": "StadiumSystem.Model\\StadiumDbContext.cs",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StadiumSystem.Model\\StadiumDbContext.cs",
               "RelativeToolTip": "StadiumSystem.Model\\StadiumDbContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBEAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T18:34:43.884Z"
+              "WhenOpened": "2025-07-19T18:34:43.884Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 17,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StadiumSystem.Model\\User\\User.cs",
               "RelativeDocumentMoniker": "StadiumSystem.Model\\User\\User.cs",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StadiumSystem.Model\\User\\User.cs",
               "RelativeToolTip": "StadiumSystem.Model\\User\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T18:11:05.716Z"
+              "WhenOpened": "2025-07-19T18:11:05.716Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 50,
               "Title": "StadiumSystem.Model.csproj",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StadiumSystem.Model\\StadiumSystem.Model.csproj",
               "RelativeDocumentMoniker": "StadiumSystem.Model\\StadiumSystem.Model.csproj",
@@ -736,7 +933,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 55,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StatiumSystem\\StadiumSystem.Model\\Class1.cs",
               "RelativeDocumentMoniker": "..\\StatiumSystem\\StadiumSystem.Model\\Class1.cs",
@@ -747,7 +944,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 35,
               "Title": "StatiumSystem.csproj",
               "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\StatiumSystem.csproj",
               "RelativeDocumentMoniker": "StatiumSystem\\StatiumSystem.csproj",
@@ -755,8 +952,7 @@
               "RelativeToolTip": "StatiumSystem\\StatiumSystem.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-19T11:54:09.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-19T11:54:09.165Z"
             },
             {
               "$type": "Document",
@@ -766,19 +962,18 @@
               "RelativeDocumentMoniker": "StatiumSystem\\Program.cs",
               "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\Program.cs",
               "RelativeToolTip": "StatiumSystem\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAswDkAAAAAAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAWwDIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-19T11:47:14.041Z"
+              "WhenOpened": "2025-07-19T11:47:14.041Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 57,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\appsettings.json",
-              "RelativeDocumentMoniker": "StatiumSystem\\appsettings.json",
-              "ToolTip": "D:\\Summer Internship\\\u0627\u0643\u0648\u0627\u062F\\StadiumSystem_Admin--main\\StatiumSystem\\appsettings.json",
-              "RelativeToolTip": "StatiumSystem\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "DocumentMoniker": "C:\\Users\\training.3\\source\\repos\\StadiumSystem_Admin--main\\StatiumSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\training.3\\source\\repos\\StadiumSystem_Admin--main\\StatiumSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-19T09:53:50.422Z"
             }

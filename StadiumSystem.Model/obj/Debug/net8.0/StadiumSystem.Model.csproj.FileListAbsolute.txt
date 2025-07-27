@@ -43,3 +43,18 @@ D:\Summer Internship\اكواد\StadiumSystem_Admin--main\StadiumSystem.Model\ob
 D:\Summer Internship\اكواد\StadiumSystem_Admin--main\StadiumSystem.Model\obj\Debug\net8.0\StadiumSystem.Model.pdb
 D:\Summer Internship\اكواد\StadiumSystem_Admin--main\StadiumSystem.Model\obj\Debug\net8.0\StadiumSystem.Model.genruntimeconfig.cache
 D:\Summer Internship\اكواد\StadiumSystem_Admin--main\StadiumSystem.Model\obj\Debug\net8.0\ref\StadiumSystem.Model.dll
+C:\Users\training.3\source\repos\StadiumSystem_Admin--main\StadiumSystem.Model\bin\Debug\net8.0\StadiumSystem.Model.deps.json
+C:\Users\training.3\source\repos\StadiumSystem_Admin--main\StadiumSystem.Model\bin\Debug\net8.0\StadiumSystem.Model.runtimeconfig.json
+C:\Users\training.3\source\repos\StadiumSystem_Admin--main\StadiumSystem.Model\bin\Debug\net8.0\StadiumSystem.Model.dll
+C:\Users\training.3\source\repos\StadiumSystem_Admin--main\StadiumSystem.Model\bin\Debug\net8.0\StadiumSystem.Model.pdb
+C:\Users\training.3\source\repos\StadiumSystem_Admin--main\StadiumSystem.Model\obj\Debug\net8.0\StadiumSystem.Model.csproj.AssemblyReference.cache
+C:\Users\training.3\source\repos\StadiumSystem_Admin--main\StadiumSystem.Model\obj\Debug\net8.0\StadiumSystem.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\training.3\source\repos\StadiumSystem_Admin--main\StadiumSystem.Model\obj\Debug\net8.0\StadiumSystem.Model.AssemblyInfoInputs.cache
+C:\Users\training.3\source\repos\StadiumSystem_Admin--main\StadiumSystem.Model\obj\Debug\net8.0\StadiumSystem.Model.AssemblyInfo.cs
+C:\Users\training.3\source\repos\StadiumSystem_Admin--main\StadiumSystem.Model\obj\Debug\net8.0\StadiumSystem.Model.csproj.CoreCompileInputs.cache
+C:\Users\training.3\source\repos\StadiumSystem_Admin--main\StadiumSystem.Model\obj\Debug\net8.0\StadiumSystem.Model.sourcelink.json
+C:\Users\training.3\source\repos\StadiumSystem_Admin--main\StadiumSystem.Model\obj\Debug\net8.0\StadiumSystem.Model.dll
+C:\Users\training.3\source\repos\StadiumSystem_Admin--main\StadiumSystem.Model\obj\Debug\net8.0\refint\StadiumSystem.Model.dll
+C:\Users\training.3\source\repos\StadiumSystem_Admin--main\StadiumSystem.Model\obj\Debug\net8.0\StadiumSystem.Model.pdb
+C:\Users\training.3\source\repos\StadiumSystem_Admin--main\StadiumSystem.Model\obj\Debug\net8.0\StadiumSystem.Model.genruntimeconfig.cache
+C:\Users\training.3\source\repos\StadiumSystem_Admin--main\StadiumSystem.Model\obj\Debug\net8.0\ref\StadiumSystem.Model.dll

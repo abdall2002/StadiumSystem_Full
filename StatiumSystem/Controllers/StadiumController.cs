@@ -75,7 +75,6 @@ namespace StatiumSystem.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        // حذف ملعب
         [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(int? id)
         {

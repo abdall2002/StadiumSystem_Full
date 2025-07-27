@@ -16,7 +16,7 @@ namespace StadiumSystem.Model.Statium
             builder.ToTable("Stadiums");
 
             builder.HasKey(s => s.Id);
-
+    
             builder.Property(s => s.Name)
                    .IsRequired()
                    .HasMaxLength(100);

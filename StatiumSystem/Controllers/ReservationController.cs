@@ -34,7 +34,6 @@ public class ReservationController : Controller
         ViewBag.StadiumName = stadium.Name;
         ViewBag.StadiumId = stadium.Id;
 
-        // تعبئة اسم المستخدم تلقائيا هنا
         return View(new ReservationDTO
         {
             StadiumId = stadium.Id,
@@ -52,7 +51,6 @@ public class ReservationController : Controller
             return RedirectToAction("Index", "Stadium");
         }
 
-        // إعادة تعبئة اسم المستخدم حتى بعد POST
         reservationDTO.UserName = User.Identity.Name ?? "Unknown";
 
         if (!ModelState.IsValid)
@@ -63,7 +61,6 @@ public class ReservationController : Controller
             return View(reservationDTO);
         }
 
-        // تحقق من التعارض
         var hasConflict = await _context.Reservations.AnyAsync(r =>
             r.StadiumId == reservationDTO.StadiumId &&
             r.ReservationDate == reservationDTO.ReservationDate &&
@@ -161,7 +158,6 @@ public class ReservationController : Controller
         if (reservation == null)
             return NotFound();
 
-        // التأكد أن المستخدم الحالي هو صاحب الحجز
         if (reservation.UserName != User.Identity.Name && !User.IsInRole("Admin"))
             return Forbid();
 

@@ -6,7 +6,6 @@ namespace StatiumSystem.Data
     {
         public Task SendEmailAsync(string email, string subject, string htmlMessage)
         {
-            // يمكنك وضع Log هنا أو تركه فارغاً
             return Task.CompletedTask;
         }
     }

@@ -6,7 +6,7 @@ using StadiumSystem.Model.Statium;
 
 namespace StatiumSystem.Models
 {
-    public class StadiumDbContext : IdentityDbContext<IdentityUser>
+    public class StadiumDbContext : IdentityDbContext<User>
     {
         public StadiumDbContext(DbContextOptions<StadiumDbContext> options) : base(options)
         {
